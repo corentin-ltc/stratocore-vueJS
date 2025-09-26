@@ -1,0 +1,40 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Category A",
+            "services": [
+                {
+                    "id": 101,
+                    "name": "Service 1A",
+                    "description": "Description for Service 1A",
+                    "price": 20.99
+                },
+                {
+                    "id": 102,
+                    "name": "Service 2A",
+                    "description": "Description for Service 2A",
+                    "price": 15.49
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Category B",
+            "services": [
+                {
+                    "id": 201,
+                    "name": "Service 1B",
+                    "description": "Description for Service 1B",
+                    "price": 25.99
+                },
+                {
+                    "id": 202,
+                    "name": "Service 2B",
+                    "description": "Description for Service 2B",
+                    "price": 18.79
+                }
+            ]
+        }
+    ]
+}

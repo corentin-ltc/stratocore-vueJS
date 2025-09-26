@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "category": "Category A",
+            "discount": 0.1
+        },
+        {
+            "service": "Service 1B",
+            "discount": 0.15
+        },
+        {
+            "category": "Category B",
+            "discount": 0.05
+        }
+    ]
+}
